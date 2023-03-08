@@ -11,3 +11,26 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+body{
+  background-color:pink;
+  font-family:"Courier New", Courier, monospace;
+}
+table tbody tr th{
+  background-color: green;
+  color: yellow;
+  padding: 10px 0px 10px 0px;
+  font-size: 35px;
+  margin-right: 100px;
+}
+table tbody tr td{
+  font-weight: bold;
+  padding-top: 10px;
+  margin-right: 100px;
+}
+h1{
+  color:purple
+}
+h2{
+  color:blue
+}
